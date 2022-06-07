@@ -13,5 +13,5 @@ jobs:
     - name: greet
       run: |
            echo "hello"
-           curl -X POST http://service-89uxytbj-1253286983.bj.apigw.tencentcs.com/release/visits_statistics
+           curl -X GET http://service-jb5n0i6f-1253286983.bj.apigw.tencentcs.com/release/autoUp
     
